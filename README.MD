@@ -1,1 +1,1 @@
-On the way
+pip install -r requirements.txt
